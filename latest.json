@@ -1,6 +1,6 @@
 ﻿{
-    "sha256":  "0e1d5bee536df24140444f2bf30d321c5f46cae521e58807f9b121e4c75417bf",
-    "version":  "20260818-4",
-    "zipUrl":  "https://github.com/e12games/multisig-station-streamline-releases/releases/download/20260818-4/streamline-20260818-4.zip",
+    "sha256":  "c1ddd097b0b8fc62e126729d4502df522ac0ba990f2fb7132ca51ed04a1c2489",
+    "version":  "20260818-5",
+    "zipUrl":  "https://github.com/e12games/multisig-station-streamline-releases/releases/download/20260818-5/streamline-20260818-5.zip",
     "notes":  "修复已知 BUG / 更新功能"
 }
